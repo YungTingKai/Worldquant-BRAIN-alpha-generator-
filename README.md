@@ -42,7 +42,6 @@ The goal is to replace manually writing and submitting one alpha expression at a
 
 | `day3.ipynb` | Expanded version: multi-operator / multi-window / multi-group combinatorial template generation, plus retry logic, automatic re-login, and logging. |
 
-| `day4.ipynb` | Further iteration on the generation/submission workflow. |
 
  
 
